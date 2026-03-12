@@ -26,16 +26,15 @@ To add to Home Assistant, I recommend using Home Assistant Community Store (HACS
 To set Neuzenge as your personal theme across devices:
 
 1. Open your user menu from the sidebar
-2. Under **User preferences**, → **Theme**, select **Neuzenge**
+2. Under **User preferences** → **Theme**, select **Neuzenge**
 
 ### Default theme
 
 To set Neuzenge as the default theme for all users:
 
-1. Navigate to **Settings** e.g. from the sidebar
-2. Select **Developer tools**
-3. Select the **Actions** tab
-4. Search for and select the **Set theme** (`frontend.set_theme`) action
-5. Check the **Theme** option, and select Neuzenge under the **Theme** entry
-6. Optionally (to override previous setting), check **Dark theme override** and select **No theme** to blank out the dark theme override
-7. Hit **Perform action**
+1. Navigate to **Settings** → **Developer tools**
+2. Select the **Actions** tab
+3. Search for and select the **Set theme** (`frontend.set_theme`) action
+4. Check the **Theme** option, and select Neuzenge under the **Theme** entry
+5. Optionally (to override previous setting), check **Dark theme override** and select **No theme** to blank out the dark theme override
+6. Hit **Perform action**
