@@ -1,8 +1,9 @@
 Neuzenge:
-  ha-card-border-color: transparent
-  ha-card-border-size: 0;
-  ha-card-border-radius: 2em
   font-family: Inter Variable, Inter, Roboto, sans-serif
+  ha-card-background: rgba(from var(--tile-color) r g b / 0.5)
+  ha-card-border-color: transparent
+  ha-card-border-radius: 2em
+  ha-card-border-size: 0;
 
   modes:
     dark:
